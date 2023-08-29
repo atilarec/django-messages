@@ -6,8 +6,8 @@ setup(
     description='User-to-user messaging system for Django',
     long_description=open('README.rst').read(),
     author='Arne Brodowski',
-    author_email='mail@arnebrodowski.de',
-    url='https://github.com/arneb/django-messages',
+    author_email='atilarec@gmail.com',
+    url='https://github.com/atilarec/django-messages',
     install_requires=[
         'Django'
     ],
